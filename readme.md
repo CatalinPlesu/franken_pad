@@ -1,6 +1,6 @@
 # franken_pad
 
-![franken_pad](imgur.com image replace me!)
+![franken_pad](https://imgur.com/a/ruYsnhv)
 
 *A short description of the keyboard/project*
 
