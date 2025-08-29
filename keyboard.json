@@ -1,0 +1,28 @@
+{
+    "manufacturer": "Catalin Plesu",
+    "keyboard_name": "franken_pad",
+    "maintainer": "Catalin Plesu",
+    "development_board": "promicro_rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "direct_pins": [
+        ["GP16"]
+    ],
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0}
+            ]
+        }
+    }
+}
