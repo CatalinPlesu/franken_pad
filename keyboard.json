@@ -2,7 +2,8 @@
     "manufacturer": "Catalin Plesu",
     "keyboard_name": "franken_pad",
     "maintainer": "Catalin Plesu",
-    "development_board": "promicro_rp2040",
+    "bootloader": "rp2040",
+    "processor": "RP2040",
     "features": {
         "bootmagic": true,
         "extrakey": true,
