@@ -9,6 +9,11 @@
         "mousekey": true,
         "nkro": true
     },
+    "matrix_size": {
+        "cols": 1,
+        "rows": 1
+    },
+    "diode_direction": "COL2ROW",
     "direct_pins": [
         ["GP16"]
     ],
